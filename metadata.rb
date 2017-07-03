@@ -1,3 +1,4 @@
+name              "heartbeat3"
 maintainer        "Claudio Cesar Sanchez Tejeda"
 maintainer_email  "demonccc@gmail.com"
 license           "Apache 2.0"
